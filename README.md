@@ -2,7 +2,7 @@
 
 This code is a deobfuscation of some BrickerBot code, as released by its purported author. It is available [here](https://ghostbin.com/paste/o6553).
 
-A writeup on it is [here](https://nyoshimizu.github.io/blog/2018/08/10/Deobfuscating-BrickerBot).
+My writeup on it is [here](https://nyoshimizu.github.io/blog/2018/08/10/Deobfuscating-BrickerBot).
 
 ## Disclaimer
 
